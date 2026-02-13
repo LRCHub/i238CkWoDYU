@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "JUNK",
+  "base_artist": "NEWS",
+  "createdAt": "2026-02-13T20:35:03.397322Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "That Don't Make It Junk",
+      "artist": "Leonard Cohen",
+      "has_synced": true,
+      "path": "select/01_That_Don't_Make_It_Junk_Leonard_Cohen.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Junk",
+      "artist": "Bronski Beat",
+      "has_synced": true,
+      "path": "select/02_Junk_Bronski_Beat.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Junk The Morgue",
+      "artist": "Saint Etienne",
+      "has_synced": false,
+      "path": "select/03_Junk_The_Morgue_Saint_Etienne.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Space Junk",
+      "artist": "Wang Chung",
+      "has_synced": true,
+      "path": "select/04_Space_Junk_Wang_Chung.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Space Junk (Wang Chung '97)",
+      "artist": "Wang Chung",
+      "has_synced": true,
+      "path": "select/05_Space_Junk_(Wang_Chung_'97)_Wang_Chung.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Junk Shop Clothes",
+      "artist": "The Auteurs",
+      "has_synced": false,
+      "path": "select/06_Junk_Shop_Clothes_The_Auteurs.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Junk for Code",
+      "artist": "Autolux",
+      "has_synced": true,
+      "path": "select/07_Junk_for_Code_Autolux.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Space Junk",
+      "artist": "Devo",
+      "has_synced": true,
+      "path": "select/08_Space_Junk_Devo.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Junk Food Forever - Acoustic",
+      "artist": "The Amazons",
+      "has_synced": true,
+      "path": "select/09_Junk_Food_Forever_-_Acoustic_The_Amazons.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Junk of the Heart",
+      "artist": "The Cardigans",
+      "has_synced": false,
+      "path": "select/10_Junk_of_the_Heart_The_Cardigans.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Junk of the Hearts",
+      "artist": "The Cardigans",
+      "has_synced": false,
+      "path": "select/11_Junk_of_the_Hearts_The_Cardigans.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Junk Of The Hearts",
+      "artist": "The Cardigans",
+      "has_synced": true,
+      "path": "select/12_Junk_Of_The_Hearts_The_Cardigans.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Junk Mail",
+      "artist": "Katie Melua",
+      "has_synced": true,
+      "path": "select/13_Junk_Mail_Katie_Melua.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Junk (Home Demo)",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/14_Junk_(Home_Demo)_The_Beatles.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "JUNK",
+      "artist": "NEWS",
+      "has_synced": false,
+      "path": "select/pl_01_JUNK_NEWS.txt"
+    }
+  ]
+}
